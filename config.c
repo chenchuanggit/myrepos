@@ -1,4 +1,4 @@
-void main()
+void config()
 {
-    printf("hello world!\n"); //this is a comment
+    //nothing to do
 }
